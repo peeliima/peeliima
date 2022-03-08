@@ -1,5 +1,6 @@
 ## Opa, bom dia!
-## Me chamo Pedro Liima, aceitas um cafezinho ?
+<h1> Me chamo Pedro Liima, aceitas um cafezinho ? </h1>
+
 <div align="center">
   <a href="https://github.com/peeliima">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=peeliima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
