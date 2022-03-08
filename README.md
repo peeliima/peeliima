@@ -1,6 +1,6 @@
 ## Opa, bom dia!
 ## Me chamo Pedro Liima, aceitas um cafezinho ?
-<div style="align-self: center">
+<div align="center">
   <a href="https://github.com/peeliima">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=peeliima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeliima&layout=compact&langs_count=7&theme=dracula"/>
