@@ -1,5 +1,5 @@
 <h1> Opa, bom dia! </h1>
-## Me chamo Pedro Liima, aceitas um cafezinho ?
+<h2> Me chamo Pedro Liima, aceitas um cafezinho ? </h2>
 
 <div align="center">
   <a href="https://github.com/peeliima">
